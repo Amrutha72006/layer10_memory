@@ -1,0 +1,29 @@
+[
+  {
+    "question": "Who created issue #1?",
+    "entities": ["issue", "user"],
+    "claim": "Issue #1 was created by a GitHub user.",
+    "evidence": {
+      "source": "data/issues",
+      "description": "Issue metadata showing creator information"
+    }
+  },
+  {
+    "question": "What entities appear in issue discussions?",
+    "entities": ["issue", "comment", "user"],
+    "claim": "Issue discussions involve users commenting and interacting with issues.",
+    "evidence": {
+      "source": "data/comments",
+      "description": "Comment threads connected to GitHub issues"
+    }
+  },
+  {
+    "question": "How are issues connected in the knowledge graph?",
+    "entities": ["issue", "comment", "relationship"],
+    "claim": "Issues and comments are connected through relationships in the knowledge graph.",
+    "evidence": {
+      "source": "data/knowledge_graph",
+      "description": "Graph edges linking issues, comments, and users"
+    }
+  }
+]
