@@ -1,0 +1,1382 @@
+{
+  "nodes": [
+    {
+      "id": "microsoft/vscode",
+      "type": "Repository"
+    },
+    {
+      "id": 4035644203,
+      "type": "Issue"
+    },
+    {
+      "id": "thecheckeredblanket",
+      "type": "Person"
+    },
+    {
+      "id": 4035594371,
+      "type": "Issue"
+    },
+    {
+      "id": "dependabot[bot]",
+      "type": "Person"
+    },
+    {
+      "id": "javascript",
+      "type": "Label"
+    },
+    {
+      "id": "dependencies",
+      "type": "Label"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": 4035575173,
+      "type": "Issue"
+    },
+    {
+      "id": "roblourens",
+      "type": "Person"
+    },
+    {
+      "id": "dileepyavan",
+      "type": "Person"
+    },
+    {
+      "id": 4035571215,
+      "type": "Issue"
+    },
+    {
+      "id": "lramos15",
+      "type": "Person"
+    },
+    {
+      "id": "daviddossett",
+      "type": "Person"
+    },
+    {
+      "id": 4035522541,
+      "type": "Issue"
+    },
+    {
+      "id": "anthonykim1",
+      "type": "Person"
+    },
+    {
+      "id": "anthonykim1",
+      "type": "Person"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": "Tyriar",
+      "type": "Person"
+    },
+    {
+      "id": 4035498783,
+      "type": "Issue"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": 4035491673,
+      "type": "Issue"
+    },
+    {
+      "id": "iortega-inditex",
+      "type": "Person"
+    },
+    {
+      "id": "info-needed",
+      "type": "Label"
+    },
+    {
+      "id": "triage-needed",
+      "type": "Label"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035482525,
+      "type": "Issue"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": 4035466647,
+      "type": "Issue"
+    },
+    {
+      "id": "dependabot[bot]",
+      "type": "Person"
+    },
+    {
+      "id": "javascript",
+      "type": "Label"
+    },
+    {
+      "id": "dependencies",
+      "type": "Label"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": 4035466580,
+      "type": "Issue"
+    },
+    {
+      "id": "dependabot[bot]",
+      "type": "Person"
+    },
+    {
+      "id": "javascript",
+      "type": "Label"
+    },
+    {
+      "id": "dependencies",
+      "type": "Label"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "vscode",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": "dependabot",
+      "type": "Person"
+    },
+    {
+      "id": 4035441998,
+      "type": "Issue"
+    },
+    {
+      "id": "daviddossett",
+      "type": "Person"
+    },
+    {
+      "id": "justschen",
+      "type": "Person"
+    },
+    {
+      "id": 4035426351,
+      "type": "Issue"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": "feature-request",
+      "type": "Label"
+    },
+    {
+      "id": "extensions",
+      "type": "Label"
+    },
+    {
+      "id": "verification-needed",
+      "type": "Label"
+    },
+    {
+      "id": 4035413808,
+      "type": "Issue"
+    },
+    {
+      "id": "mjbvz",
+      "type": "Person"
+    },
+    {
+      "id": "mjbvz",
+      "type": "Person"
+    },
+    {
+      "id": "connor4312",
+      "type": "Person"
+    },
+    {
+      "id": 4035384487,
+      "type": "Issue"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": 4035368998,
+      "type": "Issue"
+    },
+    {
+      "id": "seafoodapp",
+      "type": "Person"
+    },
+    {
+      "id": "justschen",
+      "type": "Person"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035366709,
+      "type": "Issue"
+    },
+    {
+      "id": "kimadeline",
+      "type": "Person"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035349842,
+      "type": "Issue"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": 4035330791,
+      "type": "Issue"
+    },
+    {
+      "id": "dylbarne",
+      "type": "Person"
+    },
+    {
+      "id": "roblourens",
+      "type": "Person"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035326031,
+      "type": "Issue"
+    },
+    {
+      "id": "daviddossett",
+      "type": "Person"
+    },
+    {
+      "id": "daviddossett",
+      "type": "Person"
+    },
+    {
+      "id": "testplan-item",
+      "type": "Label"
+    },
+    {
+      "id": "daviddossett",
+      "type": "Person"
+    },
+    {
+      "id": 4035304283,
+      "type": "Issue"
+    },
+    {
+      "id": "liam1205",
+      "type": "Person"
+    },
+    {
+      "id": "chrmarti",
+      "type": "Person"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035283333,
+      "type": "Issue"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": 4035273380,
+      "type": "Issue"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": "tyriar",
+      "type": "Person"
+    },
+    {
+      "id": 4035251816,
+      "type": "Issue"
+    },
+    {
+      "id": "akarshankumar49-create",
+      "type": "Person"
+    },
+    {
+      "id": "info-needed",
+      "type": "Label"
+    },
+    {
+      "id": "triage-needed",
+      "type": "Label"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035214266,
+      "type": "Issue"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": "hediet",
+      "type": "Person"
+    },
+    {
+      "id": 4035193735,
+      "type": "Issue"
+    },
+    {
+      "id": "1996wu",
+      "type": "Person"
+    },
+    {
+      "id": "lszomoru",
+      "type": "Person"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035184942,
+      "type": "Issue"
+    },
+    {
+      "id": "Mongsky04",
+      "type": "Person"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": "esbuild",
+      "type": "Person"
+    },
+    {
+      "id": 4035158209,
+      "type": "Issue"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": "meganrogge",
+      "type": "Person"
+    },
+    {
+      "id": 4035150018,
+      "type": "Issue"
+    },
+    {
+      "id": "garretwilson",
+      "type": "Person"
+    },
+    {
+      "id": "roblourens",
+      "type": "Person"
+    },
+    {
+      "id": 4035143905,
+      "type": "Issue"
+    },
+    {
+      "id": "kemamaram",
+      "type": "Person"
+    },
+    {
+      "id": "lramos15",
+      "type": "Person"
+    },
+    {
+      "id": "info-needed",
+      "type": "Label"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    },
+    {
+      "id": 4035140880,
+      "type": "Issue"
+    },
+    {
+      "id": "abhishekdavid201",
+      "type": "Person"
+    },
+    {
+      "id": "info-needed",
+      "type": "Label"
+    },
+    {
+      "id": "triage-needed",
+      "type": "Label"
+    },
+    {
+      "id": "new release",
+      "type": "Label"
+    }
+  ],
+  "edges": [
+    {
+      "source": "microsoft/vscode",
+      "target": 4035644203,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "thecheckeredblanket",
+      "target": 4035644203,
+      "relation": "OPENED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035594371,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "dependabot[bot]",
+      "target": 4035594371,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035594371,
+      "target": "javascript",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependencies",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035594371,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035575173,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "roblourens",
+      "target": 4035575173,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035575173,
+      "target": "dileepyavan",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035571215,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "lramos15",
+      "target": 4035571215,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035571215,
+      "target": "daviddossett",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035522541,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "anthonykim1",
+      "target": 4035522541,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035522541,
+      "target": "anthonykim1",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035522541,
+      "target": "meganrogge",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035522541,
+      "target": "Tyriar",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035498783,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "meganrogge",
+      "target": 4035498783,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035498783,
+      "target": "meganrogge",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035491673,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "iortega-inditex",
+      "target": 4035491673,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035491673,
+      "target": "info-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035491673,
+      "target": "triage-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035491673,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035482525,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "hediet",
+      "target": 4035482525,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035482525,
+      "target": "hediet",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035466647,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "dependabot[bot]",
+      "target": 4035466647,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035466647,
+      "target": "javascript",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependencies",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035466647,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466647,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035466580,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "dependabot[bot]",
+      "target": 4035466580,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035466580,
+      "target": "javascript",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependencies",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035466580,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "vscode",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": 4035466580,
+      "target": "dependabot",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035441998,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "daviddossett",
+      "target": 4035441998,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035441998,
+      "target": "justschen",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035426351,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "hediet",
+      "target": 4035426351,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035426351,
+      "target": "hediet",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035426351,
+      "target": "feature-request",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035426351,
+      "target": "extensions",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035426351,
+      "target": "verification-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035413808,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "mjbvz",
+      "target": 4035413808,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035413808,
+      "target": "mjbvz",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "mjbvz",
+      "target": 4035413808,
+      "relation": "CLOSED"
+    },
+    {
+      "source": 4035413808,
+      "target": "connor4312",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035384487,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "meganrogge",
+      "target": 4035384487,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035384487,
+      "target": "meganrogge",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "meganrogge",
+      "target": 4035384487,
+      "relation": "CLOSED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035368998,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "seafoodapp",
+      "target": 4035368998,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035368998,
+      "target": "justschen",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035368998,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035366709,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "kimadeline",
+      "target": 4035366709,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035366709,
+      "target": "meganrogge",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035366709,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035349842,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "hediet",
+      "target": 4035349842,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035349842,
+      "target": "hediet",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "hediet",
+      "target": 4035349842,
+      "relation": "CLOSED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035330791,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "dylbarne",
+      "target": 4035330791,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035330791,
+      "target": "roblourens",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035330791,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035326031,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "daviddossett",
+      "target": 4035326031,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035326031,
+      "target": "daviddossett",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035326031,
+      "target": "testplan-item",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035326031,
+      "target": "daviddossett",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035304283,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "liam1205",
+      "target": 4035304283,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035304283,
+      "target": "chrmarti",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035304283,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035283333,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "hediet",
+      "target": 4035283333,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035283333,
+      "target": "hediet",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "hediet",
+      "target": 4035283333,
+      "relation": "CLOSED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035273380,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "meganrogge",
+      "target": 4035273380,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035273380,
+      "target": "meganrogge",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035273380,
+      "target": "tyriar",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035251816,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "akarshankumar49-create",
+      "target": 4035251816,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035251816,
+      "target": "info-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035251816,
+      "target": "triage-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035251816,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035214266,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "hediet",
+      "target": 4035214266,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035214266,
+      "target": "hediet",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "hediet",
+      "target": 4035214266,
+      "relation": "CLOSED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035193735,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "1996wu",
+      "target": 4035193735,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035193735,
+      "target": "lszomoru",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035193735,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035184942,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "Mongsky04",
+      "target": 4035184942,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035184942,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "Mongsky04",
+      "target": 4035184942,
+      "relation": "CLOSED"
+    },
+    {
+      "source": 4035184942,
+      "target": "esbuild",
+      "relation": "MENTIONED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035158209,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "meganrogge",
+      "target": 4035158209,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035158209,
+      "target": "meganrogge",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "meganrogge",
+      "target": 4035158209,
+      "relation": "CLOSED"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035150018,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "garretwilson",
+      "target": 4035150018,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035150018,
+      "target": "roblourens",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035143905,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "kemamaram",
+      "target": 4035143905,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035143905,
+      "target": "lramos15",
+      "relation": "ASSIGNED_TO"
+    },
+    {
+      "source": 4035143905,
+      "target": "info-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035143905,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "microsoft/vscode",
+      "target": 4035140880,
+      "relation": "HAS_ISSUE"
+    },
+    {
+      "source": "abhishekdavid201",
+      "target": 4035140880,
+      "relation": "OPENED"
+    },
+    {
+      "source": 4035140880,
+      "target": "info-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035140880,
+      "target": "triage-needed",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": 4035140880,
+      "target": "new release",
+      "relation": "LABELED_AS"
+    },
+    {
+      "source": "abhishekdavid201",
+      "target": 4035140880,
+      "relation": "CLOSED"
+    }
+  ]
+}
