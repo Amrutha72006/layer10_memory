@@ -1,0 +1,1818 @@
+[
+  {
+    "text": "Insiders",
+    "type": "ORG"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "Command Palette",
+    "type": "PERSON"
+  },
+  {
+    "text": "The 'Help > Report Issue'",
+    "type": "ORG"
+  },
+  {
+    "text": "1.109.5",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Arch Linux",
+    "type": "PERSON"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "8.2.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "/test",
+    "type": "GPE"
+  },
+  {
+    "text": "8.2.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "ipv4",
+    "type": "ORG"
+  },
+  {
+    "text": "ipv6",
+    "type": "NORP"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://redirect.github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "li>",
+    "type": "PERSON"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "MCP",
+    "type": "ORG"
+  },
+  {
+    "text": "297115",
+    "type": "DATE"
+  },
+  {
+    "text": "mcp.json",
+    "type": "ORG"
+  },
+  {
+    "text": "Insiders",
+    "type": "ORG"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "Command Palette",
+    "type": "PERSON"
+  },
+  {
+    "text": "The 'Help > Report Issue'",
+    "type": "ORG"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "width=\"231\" height=\"330",
+    "type": "LAW"
+  },
+  {
+    "text": "299565",
+    "type": "DATE"
+  },
+  {
+    "text": "0.38.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "VS Code",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "2026",
+    "type": "DATE"
+  },
+  {
+    "text": "10.0.22631",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "28",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3500",
+    "type": "DATE"
+  },
+  {
+    "text": "GPU",
+    "type": "PERSON"
+  },
+  {
+    "text": "UHD Graphics",
+    "type": "ORG"
+  },
+  {
+    "text": "Microsoft",
+    "type": "ORG"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "GB",
+    "type": "PERSON"
+  },
+  {
+    "text": "4.15",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "5ac5fb2e-dfb7-4566",
+    "type": "QUANTITY"
+  },
+  {
+    "text": "6518g693:31463988",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4je02754:31466945",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "ge8j1254_inline_auto_hint_haiku:31431912",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "00h15499_gpt_53_codex:31464543",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "7a04d226_do_not_restore_last_panel_session:31438103",
+    "type": "DATE"
+  },
+  {
+    "text": "a43f0574:31442827",
+    "type": "NORP"
+  },
+  {
+    "text": "2ab5e849:31472040",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4dgh1208:31471592",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "299826",
+    "type": "MONEY"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0.1.1-19",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "microsoft",
+    "type": "ORG"
+  },
+  {
+    "text": "0.1.1-15",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "microsoft",
+    "type": "ORG"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0.1.1-20",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "microsoft",
+    "type": "ORG"
+  },
+  {
+    "text": "0.1.1-19",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "href=\"https://github.com",
+    "type": "ORG"
+  },
+  {
+    "text": "microsoft",
+    "type": "ORG"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "Dependabot",
+    "type": "PERSON"
+  },
+  {
+    "text": "## Verification",
+    "type": "MONEY"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "5",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "299039",
+    "type": "DATE"
+  },
+  {
+    "text": "299733",
+    "type": "MONEY"
+  },
+  {
+    "text": "two",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "the days",
+    "type": "DATE"
+  },
+  {
+    "text": "6",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "VS Code",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "2026",
+    "type": "DATE"
+  },
+  {
+    "text": "Darwin",
+    "type": "PERSON"
+  },
+  {
+    "text": "M1",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "8",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Google Inc.",
+    "type": "ORG"
+  },
+  {
+    "text": "Apple",
+    "type": "ORG"
+  },
+  {
+    "text": "ANGLE",
+    "type": "ORG"
+  },
+  {
+    "text": "Apple",
+    "type": "ORG"
+  },
+  {
+    "text": "Apple M1",
+    "type": "ORG"
+  },
+  {
+    "text": "Apple",
+    "type": "ORG"
+  },
+  {
+    "text": "DRIVER_VERSION=26.3.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "10.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "System)|8.00GB",
+    "type": "PERSON"
+  },
+  {
+    "text": "0.07GB",
+    "type": "PERCENT"
+  },
+  {
+    "text": "ce2100d1-c7ba-4126-b0a3-8738d5fff3d5|",
+    "type": "ORG"
+  },
+  {
+    "text": "6518g693:31463988",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "ge8j1254_inline_auto_hint_haiku:31431912",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "00h15499_gpt_53_codex:31464542",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "7a04d226_do_not_restore_last_panel_session:31438103",
+    "type": "DATE"
+  },
+  {
+    "text": "31c7i317_no_change:31465101",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "a43f0574:31442827",
+    "type": "NORP"
+  },
+  {
+    "text": "864ei723_large_tool_results_to_disk:31460878",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "55364912:31471672",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2ab5e849:31472040",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "ctrl:31471618",
+    "type": "GPE"
+  },
+  {
+    "text": "Textual",
+    "type": "PERSON"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "Insiders",
+    "type": "ORG"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "Command Palette",
+    "type": "PERSON"
+  },
+  {
+    "text": "The 'Help > Report Issue'",
+    "type": "ORG"
+  },
+  {
+    "text": "1.110",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "macOS 26.3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Textual",
+    "type": "DATE"
+  },
+  {
+    "text": "3.12",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Input",
+    "type": "PERSON"
+  },
+  {
+    "text": "TestApp(App",
+    "type": "DATE"
+  },
+  {
+    "text": "TestApp",
+    "type": "PERSON"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "VS Code",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "1.110",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Disambiguate",
+    "type": "ORG"
+  },
+  {
+    "text": "one",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "two",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "CSI",
+    "type": "ORG"
+  },
+  {
+    "text": "Claude Code Third-Party Agents",
+    "type": "PERSON"
+  },
+  {
+    "text": "Claude Code Third-Party Agents",
+    "type": "PERSON"
+  },
+  {
+    "text": "0.38.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1.110.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Windows 11",
+    "type": "LAW"
+  },
+  {
+    "text": "Third-Party Agents",
+    "type": "ORG"
+  },
+  {
+    "text": "Claude 4.x \n\nSteps to Reproduce",
+    "type": "LAW"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "ANTHROPIC_AUTH_TOKEN` and/or `ANTHROPIC_BASE_URL",
+    "type": "WORK_OF_ART"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Claude Code 3rd Party",
+    "type": "ORG"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "GH Copilot",
+    "type": "ORG"
+  },
+  {
+    "text": "Claude Code",
+    "type": "PERSON"
+  },
+  {
+    "text": "third",
+    "type": "ORDINAL"
+  },
+  {
+    "text": "ANTHROPIC_AUTH_TOKEN` and/or `ANTHROPIC_BASE_URL",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "Refs",
+    "type": "PERSON"
+  },
+  {
+    "text": "299355",
+    "type": "MONEY"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Today, Yesterday",
+    "type": "DATE"
+  },
+  {
+    "text": "Last 7 Days",
+    "type": "DATE"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Collapse",
+    "type": "ORG"
+  },
+  {
+    "text": "Today",
+    "type": "WORK_OF_ART"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Collapse",
+    "type": "ORG"
+  },
+  {
+    "text": "Today",
+    "type": "WORK_OF_ART"
+  },
+  {
+    "text": "Yesterday",
+    "type": "WORK_OF_ART"
+  },
+  {
+    "text": "4",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Trigger",
+    "type": "PERSON"
+  },
+  {
+    "text": "5",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Verify",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "400",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "mini-2025-08-07'",
+    "type": "DATE"
+  },
+  {
+    "text": "Insiders",
+    "type": "ORG"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "Command Palette",
+    "type": "PERSON"
+  },
+  {
+    "text": "The 'Help > Report Issue'",
+    "type": "ORG"
+  },
+  {
+    "text": "1.110.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Windows 11 Home (Build",
+    "type": "ORG"
+  },
+  {
+    "text": "the Github Copilot Chat",
+    "type": "ORG"
+  },
+  {
+    "text": "5F11:48962:6C08BB5:78BA6D3:69AB0A9F",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "400",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "mini-2025-08-07'",
+    "type": "DATE"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Windows",
+    "type": "LOC"
+  },
+  {
+    "text": "WSL2",
+    "type": "ORG"
+  },
+  {
+    "text": "Ubuntu",
+    "type": "PERSON"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "400",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Bad Request",
+    "type": "ORG"
+  },
+  {
+    "text": "5",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "mini-2025-08-07",
+    "type": "DATE"
+  },
+  {
+    "text": "DefaultBackground",
+    "type": "ORG"
+  },
+  {
+    "text": "298890",
+    "type": "MONEY"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "one",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0.38.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "VS Code",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "2026",
+    "type": "DATE"
+  },
+  {
+    "text": "10.0.26200",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Gen",
+    "type": "PERSON"
+  },
+  {
+    "text": "4",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2995)|",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "UHD Graphics",
+    "type": "ORG"
+  },
+  {
+    "text": "Intel",
+    "type": "ORG"
+  },
+  {
+    "text": "Microsoft",
+    "type": "ORG"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "3.51GB free)|",
+    "type": "PERCENT"
+  },
+  {
+    "text": "40d86a3e-7db9-42e8",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "6518g693:31463988",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4je02754:31466945",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "38bie571_auto:31426784",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "7a04d226_do_not_restore_last_panel_session:31438103",
+    "type": "DATE"
+  },
+  {
+    "text": "864ei723_large_tool_results_to_disk:31460878",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "55364912:31471672",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "raptor_prod_cj758834:31472766",
+    "type": "GPE"
+  },
+  {
+    "text": "2ab5e849:31472040",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "ctrl:31471618",
+    "type": "GPE"
+  },
+  {
+    "text": "f0268191:31471593",
+    "type": "GPE"
+  },
+  {
+    "text": "Fixes",
+    "type": "GPE"
+  },
+  {
+    "text": "PDF Git",
+    "type": "ORG"
+  },
+  {
+    "text": "401",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1.110",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1.109.5",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Insiders",
+    "type": "ORG"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "Command Palette",
+    "type": "PERSON"
+  },
+  {
+    "text": "The 'Help > Report Issue'",
+    "type": "ORG"
+  },
+  {
+    "text": "1.110.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Darwin",
+    "type": "PERSON"
+  },
+  {
+    "text": "25.3.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Git",
+    "type": "PERSON"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "PDF",
+    "type": "ORG"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "VS Code",
+    "type": "EVENT"
+  },
+  {
+    "text": "5",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Git",
+    "type": "PERSON"
+  },
+  {
+    "text": "matplotlib.pyplot",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "PDF",
+    "type": "ORG"
+  },
+  {
+    "text": "PDF",
+    "type": "ORG"
+  },
+  {
+    "text": "401",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1.110.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "width=\"1063",
+    "type": "PERSON"
+  },
+  {
+    "text": "height=\"788",
+    "type": "PERSON"
+  },
+  {
+    "text": "1.109.5",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "width=\"1087",
+    "type": "GPE"
+  },
+  {
+    "text": "9556:36954A:7281A03:7EF5AA5:69AB0663",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "413",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0.38.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "VS Code",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "2026",
+    "type": "DATE"
+  },
+  {
+    "text": "6.17.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "|CPUs|AMD",
+    "type": "ORG"
+  },
+  {
+    "text": "5 5500U",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Radeon Graphics",
+    "type": "ORG"
+  },
+  {
+    "text": "12",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Google Inc.",
+    "type": "ORG"
+  },
+  {
+    "text": "Google",
+    "type": "ORG"
+  },
+  {
+    "text": "ANGLE",
+    "type": "ORG"
+  },
+  {
+    "text": "Google",
+    "type": "ORG"
+  },
+  {
+    "text": "Vulkan",
+    "type": "PERSON"
+  },
+  {
+    "text": "0x0000C0DE",
+    "type": "ORG"
+  },
+  {
+    "text": "=SwANGLE",
+    "type": "PERSON"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "webgpu",
+    "type": "GPE"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "3",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "GB",
+    "type": "PERSON"
+  },
+  {
+    "text": "4.50",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "69d9a3d0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Mem MB",
+    "type": "PERSON"
+  },
+  {
+    "text": "PID",
+    "type": "ORG"
+  },
+  {
+    "text": "4905203110",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4905203110",
+    "type": "DATE"
+  },
+  {
+    "text": "3\t122630077747",
+    "type": "DATE"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "19620812440",
+    "type": "DATE"
+  },
+  {
+    "text": "56632",
+    "type": "DATE"
+  },
+  {
+    "text": "12263007775",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "96133",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "96134",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "32442",
+    "type": "DATE"
+  },
+  {
+    "text": "/snap/code/227/usr",
+    "type": "ORG"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "90104",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "90115",
+    "type": "DATE"
+  },
+  {
+    "text": "sky/project_2025",
+    "type": "ORG"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "90123",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "41227",
+    "type": "DATE"
+  },
+  {
+    "text": "/snap/code/227/usr",
+    "type": "ORG"
+  },
+  {
+    "text": "0\t9810406220",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "41406",
+    "type": "DATE"
+  },
+  {
+    "text": "5173",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "56781",
+    "type": "DATE"
+  },
+  {
+    "text": "/snap/code/227/usr",
+    "type": "ORG"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "12263007775",
+    "type": "DATE"
+  },
+  {
+    "text": "36599",
+    "type": "DATE"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "36614",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "36651",
+    "type": "DATE"
+  },
+  {
+    "text": "19620812440",
+    "type": "DATE"
+  },
+  {
+    "text": "36714",
+    "type": "DATE"
+  },
+  {
+    "text": "39241624879",
+    "type": "DATE"
+  },
+  {
+    "text": "36715",
+    "type": "DATE"
+  },
+  {
+    "text": "0\t9810406220",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "36870",
+    "type": "DATE"
+  },
+  {
+    "text": "12263007775",
+    "type": "DATE"
+  },
+  {
+    "text": "36880",
+    "type": "DATE"
+  },
+  {
+    "text": "/snap/code/227/usr",
+    "type": "ORG"
+  },
+  {
+    "text": "/snap/code/227/usr",
+    "type": "ORG"
+  },
+  {
+    "text": "36937",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "31883820214",
+    "type": "DATE"
+  },
+  {
+    "text": "37081",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "tailwindServer.js",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "42983",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "42992",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "56673",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "36789023324",
+    "type": "DATE"
+  },
+  {
+    "text": "56780",
+    "type": "DATE"
+  },
+  {
+    "text": "31999",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "57042",
+    "type": "DATE"
+  },
+  {
+    "text": "0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "57315",
+    "type": "DATE"
+  },
+  {
+    "text": "12263007775",
+    "type": "DATE"
+  },
+  {
+    "text": "73490",
+    "type": "DATE"
+  },
+  {
+    "text": "/snap/code/227/usr",
+    "type": "ORG"
+  },
+  {
+    "text": "44",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "|      File",
+    "type": "PERSON"
+  },
+  {
+    "text": "png(5",
+    "type": "PERSON"
+  },
+  {
+    "text": "package.json(1",
+    "type": "GPE"
+  },
+  {
+    "text": "tsconfig.json(1",
+    "type": "PERSON"
+  },
+  {
+    "text": "6518g693:31463988",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "42190218_ostrepl:31403339",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4je02754:31466945",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "38bie571_auto:31429954",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "31c7i317_no_change:31465101",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "a43f0574:31442827",
+    "type": "NORP"
+  },
+  {
+    "text": "864ei723_large_tool_results_to_disk:31460878",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "ctrl:31471618",
+    "type": "GPE"
+  },
+  {
+    "text": "Render",
+    "type": "ORG"
+  },
+  {
+    "text": "299647",
+    "type": "MONEY"
+  },
+  {
+    "text": "GitHub Copilot",
+    "type": "ORG"
+  },
+  {
+    "text": "Claude Open 4.6",
+    "type": "ORG"
+  },
+  {
+    "text": "first",
+    "type": "ORDINAL"
+  },
+  {
+    "text": "50%",
+    "type": "PERCENT"
+  },
+  {
+    "text": "GitHub Copilot",
+    "type": "ORG"
+  },
+  {
+    "text": "20%",
+    "type": "PERCENT"
+  },
+  {
+    "text": "36%",
+    "type": "PERCENT"
+  },
+  {
+    "text": "1.110.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2026-03",
+    "type": "DATE"
+  },
+  {
+    "text": "Electron",
+    "type": "ORG"
+  },
+  {
+    "text": "39.6.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "13330601",
+    "type": "DATE"
+  },
+  {
+    "text": "22.22.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "V8",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "14.2.231.22-electron.0",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "10.0.26200",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "0.38.1",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "VS Code",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "2026",
+    "type": "DATE"
+  },
+  {
+    "text": "10.0.22631",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "3efgi100_wstrepl:31403338",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "ge8j1254_inline_auto_hint_haiku:31431912",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "2984c849_gpt52_codex:31457542",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "7a04d226_do_not_restore_last_panel_session:31438103",
+    "type": "DATE"
+  },
+  {
+    "text": "722j7530_gpt_5_2_codex:31458091",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "edit_mode_visible:31459180\nshowstats:31457174",
+    "type": "PERSON"
+  },
+  {
+    "text": "864ei723_large_tool_results_to_disk:31458758",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "chat:31457767\n\n```",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "VS Code",
+    "type": "PRODUCT"
+  },
+  {
+    "text": "2026",
+    "type": "DATE"
+  },
+  {
+    "text": "CPU",
+    "type": "ORG"
+  },
+  {
+    "text": "2.90GHz",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "Intel",
+    "type": "ORG"
+  },
+  {
+    "text": "Microsoft",
+    "type": "ORG"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "disabled_off",
+    "type": "NORP"
+  },
+  {
+    "text": "System)|3.89GB",
+    "type": "PERSON"
+  },
+  {
+    "text": "0.60",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "6518g693:31463988",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "42190218_ostrepl:31403339\n55ia6109:31457054",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4je02754:31466945",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "38bie571_auto:31426784",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "7a04d226_do_not_restore_last_panel_session:31438103",
+    "type": "DATE"
+  },
+  {
+    "text": "864ei723_large_tool_results_to_disk:31460878",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "2ab5e849:31472040",
+    "type": "CARDINAL"
+  },
+  {
+    "text": "4dgh1208:31471592",
+    "type": "CARDINAL"
+  }
+]
