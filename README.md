@@ -2,18 +2,22 @@
 
 ## Overview
 
-Layer10 Memory is a Python-based project that extracts entities from textual data and builds a **knowledge graph** representing relationships between those entities.
+Layer10 Memory is a Python-based project that extracts entities from textual data and builds a knowledge graph representing relationships between those entities.
 
-The system performs **basic NLP processing, entity extraction, graph construction, visualization, and analytics** to understand how entities interact within a dataset.
+The system performs basic NLP processing, entity extraction, graph construction, visualization, and analytics to understand how entities interact within a dataset.
 
 This project demonstrates concepts from:
 
-* Natural Language Processing (NLP)
-* Knowledge Graph Construction
-* Graph Analytics
-* Data Processing using Python
+- Natural Language Processing (NLP)
+- Knowledge Graph Construction
+- Graph Analytics
+- Data Processing using Python
 
-This pipeline could be adapted to Layer10’s environment by connecting communication platforms like Slack or email threads with structured artifacts like Jira tickets. The ontology could be extended to include teams, decisions, and project components, enabling long-term organizational memory across communication channels.
+## Adapting to Layer10's Environment
+
+This pipeline could be adapted to Layer10’s environment by connecting communication platforms such as Slack or email threads with structured artifacts like Jira tickets.
+
+The ontology could be extended to include entities such as teams, decisions, and project components, enabling long-term organizational memory across communication channels.
 
 ---
 
